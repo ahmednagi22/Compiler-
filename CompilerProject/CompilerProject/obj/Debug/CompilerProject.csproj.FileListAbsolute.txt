@@ -1,0 +1,395 @@
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\CompilerProject.dll.config
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\CompilerProject.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\CompilerProject.pdb
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\csc.exe
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\csc.exe.config
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\csc.rsp
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\csi.exe
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\csi.exe.config
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\csi.rsp
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.AppContext.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Collections.Immutable.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Console.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.IO.Compression.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.IO.FileSystem.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Net.Http.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Net.Sockets.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.ValueTuple.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XPath.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\vbc.exe
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\vbc.exe.config
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\vbc.rsp
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\VBCSCompiler.exe
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\roslyn\VBCSCompiler.exe.config
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\Antlr3.Runtime.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\Microsoft.Web.Infrastructure.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\Newtonsoft.Json.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.Helpers.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.Mvc.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.Optimization.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.Razor.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.WebPages.Deployment.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.WebPages.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.WebPages.Razor.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\WebGrease.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.Helpers.xml
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.Mvc.xml
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.Optimization.xml
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.Razor.xml
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.WebPages.xml
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.WebPages.Deployment.xml
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\System.Web.WebPages.Razor.xml
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\Newtonsoft.Json.xml
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\Antlr3.Runtime.pdb
+D:\ahmad\Desktop\CompilerProject\CompilerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ahmad\Desktop\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.AssemblyReference.cache
+D:\ahmad\Desktop\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.CoreCompileInputs.cache
+D:\ahmad\Desktop\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.CopyComplete
+D:\ahmad\Desktop\CompilerProject\CompilerProject\obj\Debug\CompilerProject.dll
+D:\ahmad\Desktop\CompilerProject\CompilerProject\obj\Debug\CompilerProject.pdb
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\CompilerProject.dll.config
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\CompilerProject.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\CompilerProject.pdb
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csc.exe
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csc.exe.config
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csc.rsp
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csi.exe
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csi.exe.config
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csi.rsp
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.AppContext.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Collections.Immutable.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Console.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.Compression.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.FileSystem.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Net.Http.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Net.Sockets.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.ValueTuple.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XPath.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\vbc.exe
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\vbc.exe.config
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\vbc.rsp
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\VBCSCompiler.exe
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\VBCSCompiler.exe.config
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\Antlr3.Runtime.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\Microsoft.Web.Infrastructure.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\Newtonsoft.Json.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Helpers.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Mvc.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Optimization.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Razor.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Deployment.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Razor.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\WebGrease.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Helpers.xml
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Mvc.xml
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Optimization.xml
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Razor.xml
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.xml
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Deployment.xml
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Razor.xml
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\Newtonsoft.Json.xml
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\Antlr3.Runtime.pdb
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.AssemblyReference.cache
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.CoreCompileInputs.cache
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.CopyComplete
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.dll
+D:\ahmad\Desktop\Compiler Project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.pdb
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\CompilerProject.dll.config
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\CompilerProject.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\CompilerProject.pdb
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csc.exe
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csc.exe.config
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csc.rsp
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csi.exe
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csi.exe.config
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csi.rsp
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Managed.Core.targets
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.AppContext.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Collections.Immutable.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Console.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Globalization.Calendars.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.Compression.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.FileSystem.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Net.Http.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Net.Sockets.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.ValueTuple.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XPath.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\vbc.exe
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\vbc.exe.config
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\vbc.rsp
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\VBCSCompiler.exe
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\roslyn\VBCSCompiler.exe.config
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\Antlr3.Runtime.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\Microsoft.Web.Infrastructure.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\Newtonsoft.Json.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Helpers.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Mvc.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Optimization.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Razor.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Deployment.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Razor.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\WebGrease.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Helpers.xml
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Mvc.xml
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Optimization.xml
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Razor.xml
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.xml
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Deployment.xml
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Razor.xml
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\Newtonsoft.Json.xml
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\Antlr3.Runtime.pdb
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.AssemblyReference.cache
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.CoreCompileInputs.cache
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.CopyComplete
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.dll
+E:\الكليه\level 3\بروجكن\compiler\project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.pdb
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\CompilerProject.dll.config
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\CompilerProject.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\CompilerProject.pdb
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csc.exe
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csc.exe.config
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csc.rsp
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csi.exe
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csi.exe.config
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\csi.rsp
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.AppContext.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Console.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.Compression.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Net.Http.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Net.Sockets.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.ValueTuple.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XPath.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\vbc.exe
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\vbc.exe.config
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\vbc.rsp
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\VBCSCompiler.exe
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\Antlr3.Runtime.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\Newtonsoft.Json.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Helpers.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Mvc.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Optimization.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Razor.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Deployment.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Razor.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\WebGrease.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Helpers.xml
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Mvc.xml
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Optimization.xml
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.Razor.xml
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.xml
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Deployment.xml
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Razor.xml
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\Newtonsoft.Json.xml
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\Antlr3.Runtime.pdb
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.AssemblyReference.cache
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.CoreCompileInputs.cache
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.CopyComplete
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.dll
+D:\Work\University\Third level\Second term\Compiler\Project\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.pdb
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\CompilerProject.dll.config
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\CompilerProject.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\CompilerProject.pdb
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\csc.exe
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\csc.exe.config
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\csc.rsp
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\csi.exe
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\csi.exe.config
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\csi.rsp
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Managed.Core.targets
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.AppContext.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Collections.Immutable.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Console.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Globalization.Calendars.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.Compression.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.FileSystem.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Net.Http.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Net.Sockets.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Reflection.Metadata.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.ValueTuple.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XmlDocument.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XPath.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\vbc.exe
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\vbc.exe.config
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\vbc.rsp
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\VBCSCompiler.exe
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\roslyn\VBCSCompiler.exe.config
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\Antlr3.Runtime.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\Microsoft.Web.Infrastructure.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\Newtonsoft.Json.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.Helpers.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.Mvc.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.Optimization.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.Razor.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Deployment.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Razor.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\WebGrease.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.Helpers.xml
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.Mvc.xml
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.Optimization.xml
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.Razor.xml
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.xml
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Deployment.xml
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\System.Web.WebPages.Razor.xml
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\Newtonsoft.Json.xml
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\Antlr3.Runtime.pdb
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.AssemblyReference.cache
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.CoreCompileInputs.cache
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.CopyComplete
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.dll
+F:\colledge\year 3\semester 2\Graphics\Software Packages GitHub\Compiler\CompilerProject\CompilerProject\obj\Debug\CompilerProject.pdb

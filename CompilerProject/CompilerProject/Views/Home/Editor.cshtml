@@ -1,0 +1,191 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Compiler Project</title>
+    <link rel="stylesheet" href="..\..\Content\StyleSheet.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script>
+        $('document').ready(function () {
+            $('#line_numbers').linenumbers({ col_width: '75px' });
+        })</script>
+    <meta name=" viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+    <form method="post">
+        <div class="wrapper">
+            <h2>Code</h2>
+            <div class="editorToolBar">
+                <button class="comment" onclick="commentText()" name="btn" value="comment">comment</button>
+                <button class="comment" onclick="uncommentText()" name="btn" value="uncomment">uncomment</button>
+            </div>
+            <textarea id="line_numbers" rows="4" cols="50" name="input_code" placeholder="Type your Code here ...">@ViewBag.code</textarea>
+            <div class="botton">
+                <input type="submit" class="btn" value="scan" name="btn">
+                <input type="submit" class="btn" value="parse" name="btn">
+                <label class="btn" for="upload">Browse</label>
+                <input id="upload" type="file" accept=".txt" value="@ViewBag.fileContent">
+                <textarea id="filename" name="filename" style="width: 233px; height: 56px; text-decoration: underline; overflow: hidden; position: unset; font-size: 24px; resize: none; border: 0px; color: rgb(70, 113, 234); float: right; margin-top: 4px; ">@ViewBag.filename</textarea>
+                <input type="submit" id="removefile" class="btn" value="Remove File" name="removeFile" style=" position: absolute; width: 139px; margin-left: 117px; height: 33px; padding: 0px; background: brown; visibility: hidden">
+                @if (Session["fileContent"] != null)
+                {
+                    <textarea id="outputBX" style=" position: absolute; visibility: hidden;" name="fileContent">@Session["fileContent"]</textarea>
+                }
+                else
+                {
+                    <textarea id="outputBX" style=" position: absolute; visibility: hidden;" name="fileContent"></textarea>
+                }                <p id="outputBX"></p>
+            </div>
+        </div>
+    </form>
+    <br>
+    <div class="wrapper">
+        <h2>Output</h2>
+        <div class='output'>
+            @if (ViewBag.vb != null)
+            {
+                foreach (string T in ViewBag.vb)
+                {
+                    <text><pre style='overflow:unset;'>@T</pre></text>
+                }
+            }
+        </div>
+        <br>
+    </div>
+</body>
+<!-- linenumber script-->
+<script>
+    (function ($) {
+        $.fn.linenumbers = function (in_opts) {
+            // Settings and Defaults
+            var opt = $.extend({
+                col_width: '0px',
+                start: 1,
+                digits: 3.
+            }, in_opts);
+            // Remove existing div and the textarea from previous run
+            $("[data-name='linenumbers']").remove();
+            // Function run
+            return this.each(function () {
+                // Get some numbers sorted out for the CSS changes
+                var textarea_width = $(this).prop("offsetWidth");
+                var textarea_height = $(this).prop("offsetHeight");
+                var new_textarea_width = parseInt(textarea_width) - parseInt(opt.col_width);
+                // Create the new textarea and style it
+                $(this).before('<textarea data-name="linenumbers" style="width:' + new_textarea_width + 'px;height:' + textarea_height + 'px;float:left;margin-right:' + '-' + new_textarea_width + 'px;white-space:pre;overflow:hidden;" disabled="disabled"></textarea>');
+                // Edit the existing textarea's styles
+                $(this).css({ 'width': new_textarea_width + 'px', 'height': textarea_height + 'px', 'float': 'right' });
+                // Add a clearing div.
+                $(this).after('<div style="clear:both;"></div>');
+                // Define a simple variable for the line-numbers box
+                var lnbox = $(this).parent().find('textarea[disabled="disabled"]');
+                // Bind some actions to all sorts of events that may change it's contents
+                $(this).bind('blur focus change keyup keydown', function () {
+                    // Break apart and regex the lines, everything to spaces sans linebreaks
+                    var lines = "\n" + $(this).val();
+                    lines = lines.match(/[^\n]*\n[^\n]*/gi);
+                    // declare output var
+                    var line_number_output = '';
+                    // declare spacers and max_spacers vars, and set defaults
+                    var max_spacers = ''; var spacers = '';
+
+                    for (i = 0; i < opt.digits; i++) {
+                        max_spacers += ' ';
+                    }
+                    // Loop through and process each line
+                    $.each(lines, function (k, v) {
+                        // Add a line if not blank
+                        if (k != 0) {
+                            line_number_output += "\n";
+                        }
+                        // Determine the appropriate number of leading spaces
+                        lencheck = k + opt.start + '!';
+                        spacers = max_spacers.substr(lencheck.length - 1);
+                        // Add the line with out line number, to the output variable
+                        line_number_output += spacers + (k + opt.start) + ':';
+                    });
+                    // Give the text area out modified content.
+                    $(lnbox).val(line_number_output);
+                    // Change scroll position as they type, makes sure they stay in sync
+                    $(lnbox).scrollTop($(this).scrollTop());
+                });
+                // Lock scrolling together, for mouse-wheel scrolling
+                $(this).scroll(function () {
+                    $(lnbox).scrollTop($(this).scrollTop());
+                });
+                // Fire it off once to get things started
+                $(this).trigger('keyup');
+            });
+        };
+    })(jQuery);
+    $('textarea').linenumbers();
+</script>
+<!-- browse file script-->
+<script>
+    let upload = document.getElementById('upload');
+    let outputBX = document.getElementById('outputBX');
+    let filename = document.getElementById('filename');
+    let codeSection = document.getElementById('line_numbers');
+    let codeContent = filename.value;
+    let removefile = document.getElementById('removefile');
+    upload.addEventListener('change', () => {
+        let fr = new FileReader();
+        fr.readAsText(upload.files[0]);
+        fr.onload = function () {
+            outputBX.innerHTML = fr.result;
+            filename.innerHTML = upload.files[0].name;
+            codeSection.style.pointerEvents = "none";
+            codeSection.style.border = " 4px solid brown";
+            codeSection.placeholder = "Remove file to Write the code here";
+            codeSection.style.color = "darkgray";
+            removefile.style.visibility = "visible";
+            removefile.style.position = "unset";
+        };
+    });
+    if (codeContent != "") {
+        codeSection.style.pointerEvents = "none";
+        codeSection.style.border = " 4px solid brown";
+        codeSection.placeholder = "Remove file to Write the code here";
+        codeSection.style.color = "darkgray";
+        removefile.style.visibility = "visible";
+        removefile.style.position = "unset";
+    }
+</script>
+<!-- comment script-->
+<script>
+    function commentText() {
+        if (document.getSelection) {
+            let code = document.getElementById('line_numbers').value;
+            let selectedCode = document.getSelection().toString()
+            let comment;
+            if (!selectedCode.includes("\n")) {
+                comment = "--" + selectedCode;
+            } else {
+                comment = "<*" + selectedCode + "*>";
+            }
+            code = code.replace(document.getSelection().toString(), comment);
+            document.getElementById('line_numbers').value = code;
+        }
+    }
+</script>
+<!-- uncomment script-->
+<script>
+    function uncommentText() {
+        if (document.getSelection) {
+            let code = document.getElementById('line_numbers').value;
+            let comment = document.getSelection().toString();
+            let uncomment = comment.split("<*").join('');
+            uncomment = uncomment.split("*>").join('');
+            uncomment = uncomment.split("--").join('');
+            code = code.replace(comment, uncomment);
+            document.getElementById('line_numbers').value = code;
+        }
+    }
+</script>
+</html>
